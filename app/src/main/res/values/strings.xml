@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TamatemPlusAssignment</string>
+    <string name="info_open_tamatem_plus">Click To Open Tamatem Plus</string>
+    <string name="info_intro_text">Welocme To Tmamtem Plus Webview Android Appplication</string>
+    <string name="info_tmamtm_logo">Tmamtem Logo Desc</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

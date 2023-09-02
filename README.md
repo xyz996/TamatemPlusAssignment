@@ -8,10 +8,10 @@ This is A simple Webview Application that loads https://tamatemplus.com/ and imp
 
 ## Technologies Used
 
--Kotlin
--Constraint Layouts
--ViewBinding
--Android webView
+-(#Kotlin)
+-(#Constraint Layouts)
+-(#ViewBinding)
+-(#Android webView)
 
 
 ## Contributing
